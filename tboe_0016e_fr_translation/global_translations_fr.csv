@@ -304,7 +304,7 @@ glue_skin_name,Colle à la peau,
 glue_skin_description,Les contraintes sont plus difficiles à enlever,
 increase_move_speed_name,Rapidité,
 increase_move_speed_description,Se déplacer plus rapidement,
-oily_skin_name,Peau grasse,Les contraintes sont plus faciles à enlever
+oily_skin_name,Peau grasse,Les contraintes sont plus faciles à enlever,
 oily_skin_description,,
 regen_name,Régénération,
 regen_description,Gagne des PV au fil du temps,
@@ -600,7 +600,7 @@ dialogue_jockey_14,<portrait=irritated>Pah ! Tu vas languir à jamais et te déc
 dialogue_jockey_15,"<portrait=chuffed>Bonne fille ; votre premier travail à terminer immédiatement, est de saisir la [img=16x16]res://entities/crate.png[/img] Caisse de Ravitaillement de cet étage, et de nous l’apporter avant de partir ! Jusqu’à ce que vous enleviez le dernier de notre poney tack, vous remplirez le rôle et les tâches de la ponygirl !",
 dialogue_jockey_16,<portrait=glee>Nous voyons que vous nous avez apporté à titre préventif la caisse nécessaire ! Cette prévision nous plaît car nous serons capables de faire rapidement un bon usage de l’esclave à l’intér- nous voulons dire les fournitures à l’intérieur,
 dialogue_jockey_17,"<portrait=irritated>Tu n’as rien entendu de tel, esclave de poney, ni de nous ni de personne. Dans cette caisse, il n’y a rien d’autre que des matières premières ou des produits électroniques ou du grain non transformé ou quelque chose à cet effet.",
-dialogue_jockey_18,<portrait=explain>Nous n’avons pas de tâches pour vous à l’heure actuelle, il semble que vous soyez trop occupé à remplir un autre rôle et ne pouvez pas prendre la responsabilité du Pony Slave.
+dialogue_jockey_18,<portrait=explain>Nous n’avons pas de tâches pour vous à l’heure actuelle, il semble que vous soyez trop occupé à remplir un autre rôle et ne pouvez pas prendre la responsabilité du Pony Slave.,
 dialogue_jockey_1a,Où est cette caisse ?,
 dialogue_jockey_1b,Qu’est-ce qu’il y a dans la boîte ?,
 dialogue_jockey_1c,Mmfffgh!?,
@@ -647,7 +647,7 @@ dialogue_telephone_28,<portrait=giddy>J’avais l’habitude d’écrire des fan
 dialogue_telephone_29,<portrait=sigh>Bien mieux que de simplement faire la même chose encore et encore. L’esclave se fait capturer par le culte. Essaie de s’en sortir. Échoue. Pourquoi chaque film sont-ils comme ça maintenant ???,
 dialogue_telephone_30,<portrait=accuse>Il se passe des choses amusantes ici. Ne pense pas que je ne le vois pas : Certains des esclaves transportent des choses sans mon avis ou celui de Jenn.,
 dialogue_telephone_31,<portrait=camera>J’espère qu’ils préparent secrètement une fête surprise !,
-dialogue_slave_deadlock,ALERTE !\nCet esclave a été condamné à rester enchaîné ici jusqu’à ce qu’il DEADLOCK l’équipement de quelqu’un !\nVous êtes invités à l’aider avec cela ou à la refuser et à partir, le choix est le vôtre.
+dialogue_slave_deadlock,ALERTE !\nCet esclave a été condamné à rester enchaîné ici jusqu’à ce qu’il DEADLOCK l’équipement de quelqu’un !\nVous êtes invités à l’aider avec cela ou à la refuser et à partir, le choix est le vôtre.,
 # GADGETS,,
 gadget_charge,Charge: %d / %d,
 gadget_charge_rooms,%d / %d salles explorées,
